@@ -31,8 +31,8 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 Feel free to connect with me or reach out for collaborations:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- Email: your.email@example.com
+- LinkedIn: [Meraj Ansari](https://linkedin.com/in/merajansari)
+- Email: meraj2k22@gmail.com
 
 Let's collaborate and build something amazing together! 🚀
 
