@@ -1,6 +1,6 @@
 # Hi there, I'm Meraj! 👋
 
-I'm a passionate backend engineer with 1.5 years of experience in Node.js, MySQL, and MongoDB. I enjoy building scalable and efficient solutions that make a positive impact.
+I'm a passionate backend engineer with 2 years of experience in Node.js, MySQL, and MongoDB. I enjoy building scalable and efficient solutions that make a positive impact.
 
 ## 🔧 Technologies & Tools
 
