@@ -1,53 +1,30 @@
-# Hi there, I'm Meraj! 👋
+### Meraj Ansari
 
-I'm a passionate backend engineer with 2 years of experience in Node.js, MySQL, and MongoDB. I enjoy building scalable and efficient solutions that make a positive impact.
+Backend engineer (Go) at **TestMu AI** — designing event-driven systems, multi-tenant platforms, and LLM-powered backends. ~4 years shipping distributed pipelines at production scale.
 
-## 🔧 Technologies & Tools
+---
 
-- Node.js
-- Express.js
-- MySQL
-- MongoDB
-- RESTful APIs
-- Git & GitHub
-- ... and more!
+**Currently building**
 
-## 🌱 Currently Learning
+- **Event-driven notification & integration platform (Go + Kafka)** — pluggable notifier architecture delivering test and accessibility results to Slack, Jira, GitHub CI, and Azure DevOps. Multi-tenant plugin sharing at the org level, async processing with retries, fault-tolerant at-least-once delivery.
+- **Bi-directional CRM data-sync engine (Go)** — Salesforce sync for contacts, leads, accounts, and orgs via cron + event-driven jobs (payment, invoice, trial events), with lead enrichment and custom recovery middleware. Replaced a legacy PHP pipeline.
+- **Multimodal AI test-case generator** — ingests docs, audio, and video (S3 → AWS Lambda) through an LLM prompt pipeline that produces structured test cases (title, scenarios, priority) and opens Jira tickets.
+- **AI chat-completions with tool-calling + agentic research** — pluggable tool registry over Composio (Gmail, Calendar, Tasks), RAG-style contact search, and multi-step LLM tool-calls that auto-enrich CRM records with resolved entity data.
+- **Graph-backed contact platform on Neo4j** — concurrency-safe connection pooling, background health checks, fed by an event-driven contact-lifecycle pipeline.
 
-I'm always eager to learn and stay updated with the latest technologies. Currently, I'm diving deeper into:
+**Earlier — Woovly (2022–25)**
 
-- Docker & Containerization
-- Kubernetes
-- Serverless Architecture
+- Redis caching on order processing → ~40% faster
+- Real-time order tracking → ~30% fewer customer-support queries
+- Guest checkout + cart improvements → ~20% lower cart abandonment
+- CTV content-moderation workflow → ~40% moderation-efficiency gain
 
-## 💬 Ask Me About
+**Stack** — Go (primary), Node/TypeScript, Java · Kafka · PostgreSQL, MongoDB, Redis · Neo4j · AWS (Lambda, S3), Docker, Kubernetes
 
-- Backend Development
-- Database Design and Optimization
-- RESTful API Design
-- Code Quality and Best Practices
+---
 
-## 📫 How to Reach Me
+Most of my code lives in private work repos. Public side-project work has been intentionally minimal; sanitized architecture writeups are coming next.
 
-Feel free to connect with me or reach out for collaborations:
+---
 
-- LinkedIn: [Meraj Ansari](https://linkedin.com/in/merajansari)
-- Email: meraj2k22@gmail.com
-
-Let's collaborate and build something amazing together! 🚀
-
-
-<!--
-**meraj2k/meraj2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact** — [meraj.iiits@gmail.com](mailto:meraj.iiits@gmail.com) · [LinkedIn](https://linkedin.com/in/merajansari)
